@@ -13,7 +13,7 @@ namespace LED_Matrix
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
+            Application.EnableVisualStyles();//tess
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
