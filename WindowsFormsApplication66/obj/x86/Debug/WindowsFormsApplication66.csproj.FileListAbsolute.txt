@@ -1,0 +1,16 @@
+H:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication66.csproj.GenerateResource.Cache
+H:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\bin\Debug\WindowsFormsApplication66.exe
+H:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\bin\Debug\WindowsFormsApplication66.pdb
+H:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication66.exe
+H:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication66.pdb
+H:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication66.csprojResolveAssemblyReference.cache
+G:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication66.exe
+G:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication66.pdb
+G:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\bin\Debug\WindowsFormsApplication66.exe
+G:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\bin\Debug\WindowsFormsApplication66.pdb
+G:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication66.csprojResolveAssemblyReference.cache
+G:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication66.csproj.GenerateResource.Cache

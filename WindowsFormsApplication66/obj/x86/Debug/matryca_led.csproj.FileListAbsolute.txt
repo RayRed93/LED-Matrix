@@ -1,0 +1,18 @@
+G:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\obj\x86\Debug\matryca_led.csproj.GenerateResource.Cache
+G:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication66.exe
+G:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication66.pdb
+G:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\bin\Debug\WindowsFormsApplication66.exe
+G:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\bin\Debug\WindowsFormsApplication66.pdb
+G:\vs projects\2010\Projects\WindowsFormsApplication66\WindowsFormsApplication66\obj\x86\Debug\matryca_led.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Documents\Visual Studio 2013\Projects\matrixled\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication66.exe
+C:\Users\Piotr\Documents\Visual Studio 2013\Projects\matrixled\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication66.pdb
+C:\Users\Piotr\Documents\Visual Studio 2013\Projects\matrixled\WindowsFormsApplication66\bin\Debug\WindowsFormsApplication66.exe
+C:\Users\Piotr\Documents\Visual Studio 2013\Projects\matrixled\WindowsFormsApplication66\bin\Debug\WindowsFormsApplication66.pdb
+C:\Users\Piotr\Documents\Visual Studio 2013\Projects\matrixled\WindowsFormsApplication66\obj\x86\Debug\matryca_led.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Documents\Visual Studio 2013\Projects\matrixled\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Piotr\Documents\Visual Studio 2013\Projects\matrixled\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Piotr\Documents\Visual Studio 2013\Projects\matrixled\WindowsFormsApplication66\obj\x86\Debug\matryca_led.csproj.GenerateResource.Cache
+C:\Users\Piotr\Documents\GitHub\LED-Matrix\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication66.exe
+C:\Users\Piotr\Documents\GitHub\LED-Matrix\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication66.pdb
