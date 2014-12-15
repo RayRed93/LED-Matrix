@@ -16,9 +16,9 @@ namespace LED_Matrix
     {
 
 
-        List<Matrix_sign> matrix_list = new List<Matrix_sign> //Heheheheh
+        List<Matrix_sign> matrix_list = new List<Matrix_sign> //He
             {
-                new Matrix_sign() { sign='a', msign=new Int16[,] { {0,0,0,0,0},
+                new Matrix_sign() { sign='a', msign=new Int16[,] { {0,0,0,0,0}, //sssss
                                                                    {0,0,0,0,0},
                                                                    {1,1,1,0,0},
                                                                    {0,0,0,1,0},
