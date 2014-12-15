@@ -16,3 +16,5 @@ C:\Users\Piotr\Documents\Visual Studio 2013\Projects\matrixled\WindowsFormsAppli
 C:\Users\Piotr\Documents\Visual Studio 2013\Projects\matrixled\WindowsFormsApplication66\obj\x86\Debug\matryca_led.csproj.GenerateResource.Cache
 C:\Users\Piotr\Documents\GitHub\LED-Matrix\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication66.exe
 C:\Users\Piotr\Documents\GitHub\LED-Matrix\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication66.pdb
+D:\Projekty\VSProjects\TeamProjects\LED-Matrix\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication66.exe
+D:\Projekty\VSProjects\TeamProjects\LED-Matrix\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication66.pdb
