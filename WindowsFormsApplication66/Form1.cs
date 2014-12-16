@@ -28,7 +28,7 @@ namespace LED_Matrix
         
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent();//chuj
 
             foreach (string port in SerialPort.GetPortNames())
             {
