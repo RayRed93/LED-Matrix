@@ -18,3 +18,7 @@ C:\Users\Piotr\Documents\GitHub\LED-Matrix\WindowsFormsApplication66\obj\x86\Deb
 C:\Users\Piotr\Documents\GitHub\LED-Matrix\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication66.pdb
 D:\Projekty\VSProjects\TeamProjects\LED-Matrix\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication66.exe
 D:\Projekty\VSProjects\TeamProjects\LED-Matrix\WindowsFormsApplication66\obj\x86\Debug\WindowsFormsApplication66.pdb
+C:\Users\Piotr\Documents\GitHub\LED-Matrix\WindowsFormsApplication66\obj\x86\Debug\matryca_led.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Documents\GitHub\LED-Matrix\WindowsFormsApplication66\obj\x86\Debug\LED_Matrix.Form1.resources
+C:\Users\Piotr\Documents\GitHub\LED-Matrix\WindowsFormsApplication66\obj\x86\Debug\LED_Matrix.Properties.Resources.resources
+C:\Users\Piotr\Documents\GitHub\LED-Matrix\WindowsFormsApplication66\obj\x86\Debug\matryca_led.csproj.GenerateResource.Cache
