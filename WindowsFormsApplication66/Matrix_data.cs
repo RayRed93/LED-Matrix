@@ -5,7 +5,7 @@ using System.Text;
 
 namespace LED_Matrix
 {
-    public class Matrix_sign
+    public struct Matrix_sign
     {
         public char sign { get; set; }
         public Int16[,] msign { get; set; }
