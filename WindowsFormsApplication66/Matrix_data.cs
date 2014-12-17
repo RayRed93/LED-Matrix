@@ -16,7 +16,7 @@ namespace LED_Matrix
     {
 
 
-        List<Matrix_sign> matrix_list = new List<Matrix_sign> //Hege
+        public List<Matrix_sign> matrix_list = new List<Matrix_sign> //Hege
             {
                 new Matrix_sign() { sign='a', msign=new Int16[,] { {0,0,0,0,0}, //sssss
                                                                    {0,0,0,0,0},

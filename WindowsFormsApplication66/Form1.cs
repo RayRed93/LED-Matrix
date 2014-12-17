@@ -23,7 +23,9 @@ namespace LED_Matrix
         byte[] dane = new byte[9];
         Int16[,] bufor = new Int16[8, 8];
         Int16[,] bufor2 = new Int16[30, 8];
-        int testerino = 0, gg=1; //test        
+        int testerino = 0, gg=1; //test    
+        Matrix_data mdat = new Matrix_data();
+       
            
         
         public Form1()
@@ -44,6 +46,9 @@ namespace LED_Matrix
 
         }
 
+        
+        
+
         private void openport_Click(object sender, EventArgs e)
         {
             if (comboBox1.SelectedValue != null)
@@ -63,8 +68,9 @@ namespace LED_Matrix
         }
         private void animacja()
         {
-
+            
             Random rnd = new Random();
+            
 
             for (int j = 0; j < 8; j++)
             {
@@ -104,8 +110,9 @@ namespace LED_Matrix
       
         public Int16[,] char_to_matrix(char sign)
         {
-          
-           foreach (Matrix_sign ms in matrix_list)
+            
+            
+           foreach (Matrix_sign ms in mdat.matrix_list)
            {
                if (ms.sign == sign) return ms.msign;
            }
